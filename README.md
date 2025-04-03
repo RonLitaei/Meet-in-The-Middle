@@ -1,3 +1,5 @@
+## Task:
+Given an array of n numbers. In how many ways can you choose a subset of the numbers with sum x?
 ## Steps:
 1. Divide input array into two.
 2. Create all subset sums for each half.
